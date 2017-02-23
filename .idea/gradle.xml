@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/linkedinlogin" />
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/uicode" />
+            <option value="$PROJECT_DIR$/uixml" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
