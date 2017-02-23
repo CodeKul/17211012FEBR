@@ -1,4 +1,4 @@
-package com.codekul.a17211012febr;
+package com.codekul.sample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
