@@ -16,7 +16,22 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button btnOkay = (Button) findViewById(R.id.btnOkay);
-        btnOkay.setOnClickListener(new Click());
+        //btnOkay.setOnClickListener(new Click());
+        /*btnOkay.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                TextView txtDate = (TextView) findViewById(R.id.txtDate);
+                txtDate.setText(new Date().toString());
+            }
+        });*/
+//        btnOkay.setOnClickListener(view -> ((TextView)findViewById(R.id.txtDate)).setText(new Date().toString()) );
+
+        btnOkay.setOnClickListener(this::date);
+    }
+
+    private void date(View view) {
+        TextView txtDate = (TextView) findViewById(R.id.txtDate);
+        txtDate.setText(new Date().toString());
     }
 
     private class Click implements View.OnClickListener {
