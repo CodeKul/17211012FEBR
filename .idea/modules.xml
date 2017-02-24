@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/uicode/uicode.iml" filepath="$PROJECT_DIR$/uicode/uicode.iml" />
       <module fileurl="file://$PROJECT_DIR$/uixml/uixml.iml" filepath="$PROJECT_DIR$/uixml/uixml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewproperties/viewproperties.iml" filepath="$PROJECT_DIR$/viewproperties/viewproperties.iml" />
     </modules>
   </component>
 </project>
