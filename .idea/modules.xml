@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/17211012FEBR.iml" filepath="$PROJECT_DIR$/17211012FEBR.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundviews/compoundviews.iml" filepath="$PROJECT_DIR$/compoundviews/compoundviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" filepath="$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedinlogin/linkedinlogin.iml" filepath="$PROJECT_DIR$/linkedinlogin/linkedinlogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />

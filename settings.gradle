@@ -1,1 +1,1 @@
-include ':app', ':sample', ':linkedinlogin', ':uicode', ':uixml', ':viewproperties', ':relativelayout', ':interactivitycommunication'
+include ':app', ':sample', ':linkedinlogin', ':uicode', ':uixml', ':viewproperties', ':relativelayout', ':interactivitycommunication', ':compoundviews'
