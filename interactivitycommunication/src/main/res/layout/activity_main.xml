@@ -14,12 +14,20 @@
         android:id="@+id/btnAndroid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Android"/>
+        android:text="Android" />
 
     <Button
         android:id="@+id/btnApple"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Apple"
-        android:layout_below="@id/btnAndroid"/>
+        android:layout_below="@id/btnAndroid"
+        android:text="Apple" />
+
+    <TextView
+        android:id="@+id/txtRes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnApple"
+        android:gravity="center"
+        android:textSize="30sp" />
 </RelativeLayout>

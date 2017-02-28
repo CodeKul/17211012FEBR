@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.RadioButton;
+import android.widget.RadioGroup;
 
 public class NextActivity extends AppCompatActivity {
 
@@ -33,5 +34,15 @@ public class NextActivity extends AppCompatActivity {
     }
 
     private void onBack(View view) {
+
+        int checked = ((RadioGroup)findViewById(R.id.radGrp)).getCheckedRadioButtonId();
+
+        Bundle bundle = new Bundle();
+        bundle.putString("res", ((RadioButton)findViewById(checked)).getText().toString());
+
+        Intent intentBack = new Intent();
+        intentBack.putExtras(bundle);
+        setResult(RESULT_OK, intentBack);
+        finish();
     }
 }
