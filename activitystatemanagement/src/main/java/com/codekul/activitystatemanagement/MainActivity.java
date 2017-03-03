@@ -20,11 +20,11 @@ public class MainActivity extends AppCompatActivity {
 
         mt("onCreate");
 
-        if (savedInstanceState != null) {
+        /*if (savedInstanceState != null) {
             State state = (State) savedInstanceState.getSerializable(KEY_TXT_VW);
             if (state != null)
                 ((TextView) findViewById(R.id.txtVw)).setText(state.txtVwData);
-        }
+        }*/
     }
 
     public void okayClicked(View view) {
@@ -53,5 +53,16 @@ public class MainActivity extends AppCompatActivity {
 
     class State implements Serializable {
         public String txtVwData;
+    }
+
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+
+        if (savedInstanceState != null) {
+            State state = (State) savedInstanceState.getSerializable(KEY_TXT_VW);
+            if (state != null)
+                ((TextView) findViewById(R.id.txtVw)).setText(state.txtVwData);
+        }
     }
 }
