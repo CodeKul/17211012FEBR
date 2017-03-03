@@ -1,1 +1,1 @@
-include ':app', ':sample', ':linkedinlogin', ':uicode', ':uixml', ':viewproperties', ':relativelayout', ':interactivitycommunication', ':compoundviews', ':customviews', ':bouncingball', ':listview', ':gridviewwithcustomadapter'
+include ':app', ':sample', ':linkedinlogin', ':uicode', ':uixml', ':viewproperties', ':relativelayout', ':interactivitycommunication', ':compoundviews', ':customviews', ':bouncingball', ':listview', ':gridviewwithcustomadapter', ':viewanimations', ':activitylifecycle'

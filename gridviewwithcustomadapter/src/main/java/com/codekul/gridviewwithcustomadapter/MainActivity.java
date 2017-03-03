@@ -25,14 +25,13 @@ public class MainActivity extends AppCompatActivity {
         dataSet.add(new GridItem(6, R.mipmap.ic_launcher, "Map"));
 
         final MyAdapter adapter = new MyAdapter(this, dataSet);
-        ((GridView)findViewById(R.id.gridMenus)).setAdapter(adapter);
-        ((GridView)findViewById(R.id.gridMenus)).setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        ((GridView) findViewById(R.id.gridMenus)).setAdapter(adapter);
+        ((GridView) findViewById(R.id.gridMenus)).setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
                 GridItem item = (GridItem) adapter.getItem(position);
             }
         });
-
     }
 }

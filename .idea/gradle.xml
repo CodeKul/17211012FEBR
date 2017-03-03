@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitylifecycle" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bouncingball" />
             <option value="$PROJECT_DIR$/compoundviews" />
@@ -20,6 +21,7 @@
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/uicode" />
             <option value="$PROJECT_DIR$/uixml" />
+            <option value="$PROJECT_DIR$/viewanimations" />
             <option value="$PROJECT_DIR$/viewproperties" />
           </set>
         </option>
