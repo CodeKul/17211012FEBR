@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codekul.fragmentsample.DetailsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imgCourse"
+        android:layout_width="@dimen/imgSiz"
+        android:layout_height="@dimen/imgSiz"
+        android:text="@string/hello_blank_fragment"
+        android:layout_centerInParent="true"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/txtInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgCourse"
+        android:text="lksddjlsdjgdl"
+        android:gravity="center"/>
+
+</RelativeLayout>
