@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDisplay">Display</string>
+    <string name="btnDelete">Delete</string>
+    <string name="edtProduct">Product</string>
+    <string name="edtCost">Cost</string>
+</resources>
