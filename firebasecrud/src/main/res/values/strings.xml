@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnDisplay">Display</string>
+</resources>
