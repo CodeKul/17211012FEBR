@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/17211012FEBR.iml" filepath="$PROJECT_DIR$/17211012FEBR.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" filepath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitystatemanagement/activitystatemanagement.iml" filepath="$PROJECT_DIR$/activitystatemanagement/activitystatemanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlclient/aidlclient.iml" filepath="$PROJECT_DIR$/aidlclient/aidlclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlserver/aidlserver.iml" filepath="$PROJECT_DIR$/aidlserver/aidlserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bouncingball/bouncingball.iml" filepath="$PROJECT_DIR$/bouncingball/bouncingball.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
