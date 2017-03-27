@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cut">Cut</string>
+    <string name="action_copy">Copy</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="show">Show</string>
+    <string name="action_loc">Location</string>
+</resources>

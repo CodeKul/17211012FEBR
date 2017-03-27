@@ -24,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/internalstorage/internalstorage.iml" filepath="$PROJECT_DIR$/internalstorage/internalstorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedinlogin/linkedinlogin.iml" filepath="$PROJECT_DIR$/linkedinlogin/linkedinlogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialmenu/materialmenu.iml" filepath="$PROJECT_DIR$/materialmenu/materialmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" filepath="$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/providingresources/providingresources.iml" filepath="$PROJECT_DIR$/providingresources/providingresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/providingresourcesown/providingresourcesown.iml" filepath="$PROJECT_DIR$/providingresourcesown/providingresourcesown.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
@@ -33,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" filepath="$PROJECT_DIR$/statusbarnotifications/statusbarnotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiper/swiper.iml" filepath="$PROJECT_DIR$/swiper/swiper.iml" />
       <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
       <module fileurl="file://$PROJECT_DIR$/uicode/uicode.iml" filepath="$PROJECT_DIR$/uicode/uicode.iml" />
       <module fileurl="file://$PROJECT_DIR$/uithread/uithread.iml" filepath="$PROJECT_DIR$/uithread/uithread.iml" />

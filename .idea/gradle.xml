@@ -29,6 +29,8 @@
             <option value="$PROJECT_DIR$/internalstorage" />
             <option value="$PROJECT_DIR$/linkedinlogin" />
             <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/materialmenu" />
+            <option value="$PROJECT_DIR$/navigationdrawer" />
             <option value="$PROJECT_DIR$/providingresources" />
             <option value="$PROJECT_DIR$/providingresourcesown" />
             <option value="$PROJECT_DIR$/relativelayout" />
@@ -38,6 +40,7 @@
             <option value="$PROJECT_DIR$/simplevalueresources" />
             <option value="$PROJECT_DIR$/sqlite" />
             <option value="$PROJECT_DIR$/statusbarnotifications" />
+            <option value="$PROJECT_DIR$/swiper" />
             <option value="$PROJECT_DIR$/toast" />
             <option value="$PROJECT_DIR$/uicode" />
             <option value="$PROJECT_DIR$/uithread" />
