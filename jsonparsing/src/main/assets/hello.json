@@ -1,0 +1,14 @@
+{
+    "name": "Audi",
+    "cost": 54,
+    "country": "India",
+    "owners": [
+        "Google",
+        "Apple",
+        "Microsoft"
+    ],
+    "parent": {
+        "model": "Raw",
+        "gravity": 9.8
+    }
+}
