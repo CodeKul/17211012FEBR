@@ -52,6 +52,7 @@
             <option value="$PROJECT_DIR$/viewproperties" />
             <option value="$PROJECT_DIR$/weatherapp" />
             <option value="$PROJECT_DIR$/webservices" />
+            <option value="$PROJECT_DIR$/wifi" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
